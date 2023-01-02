@@ -7,3 +7,6 @@ Les Utilisateurs pourront :
 - Avoir des informations sur les services proposés.
 - Comparer les banques.
 
+Quelques exemples : 
+- https://www.comparebanks.co.uk/
+- https://www.trustpilot.com/
